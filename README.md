@@ -1,11 +1,11 @@
 ### Hi, I'm baby 👋
 
-[OneForAll](https://discord.gg/czJdCzaa)
+[OneForAll](https://discord.gg/n2EvRECf88)
 
 
 ## 👨‍🎓 About me!
 
-- 🤖 I'm currently working on [OneForAll](https://discord.gg/czJdCzaa)!
+- 🤖 I'm currently working on [OneForAll](https://discord.gg/n2EvRECf88)!
 - 📚 I live and study in Romania
 - 🥅 2021 Goals: Grow my bot as far as I can, learn python
 - 🖥 I'm using Visual Studio Code
