@@ -7,7 +7,7 @@
 
 - 🤖 I'm currently working on [OneForAll](https://discord.gg/czJdCzaa)!
 - 📚 I live and study in Romania
-- 🥅 2021 Goals: Grow my bot as far as I can, learn electron
+- 🥅 2021 Goals: Grow my bot as far as I can, learn python
 - 🖥 I'm using Visual Studio Code
 
 
