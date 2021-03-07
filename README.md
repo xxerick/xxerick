@@ -1,4 +1,5 @@
 4Music leak - [4Music](https://github.com/whoisbaby/4music)
+RosaCoins leak - [rosacoins](https://github.com/whoisbaby/rosacoins)
 
 ### Hi, I'm baby 👋
 
