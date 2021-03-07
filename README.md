@@ -11,7 +11,7 @@ RosaCoins leak - [rosacoins](https://github.com/whoisbaby/rosacoins)
 
 - 🤖 I'm currently working on [OneForAll](https://discord.gg/n2EvRECf88)!
 - 📚 I live and study in Romania
-- 🥅 2021 Goals: Grow my bot as far as I can, learn python
+- 🥅 2021 Goals: Grow my bot as far as I can, learn python.
 - 🖥 I'm using Visual Studio Code
 
 
