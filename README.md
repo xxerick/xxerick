@@ -1,6 +1,3 @@
-4Music leak - [4Music](https://github.com/whoisbaby/4music)
----------
-RosaCoins leak - [rosacoins](https://github.com/whoisbaby/baby-coins)
 
 ### Hi, I'm baby 👋
 
@@ -13,6 +10,8 @@ RosaCoins leak - [rosacoins](https://github.com/whoisbaby/baby-coins)
 - 📚 I live and study in Romania
 - 🥅 2021 Goals: Grow my bot as far as I can, learn python.
 - 🖥 I'm using Visual Studio Code
+- 4Music leak - [4Music](https://github.com/whoisbaby/4music)
+- Coins leak - [baby-coins](https://github.com/whoisbaby/baby-coins)
 
 
 <br />
