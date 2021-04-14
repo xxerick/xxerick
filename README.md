@@ -10,7 +10,6 @@
 - 📚 I live and study in Romania
 - 🥅 2021 Goals: Grow my bot as far as I can, learn python.
 - 🖥 I'm using Visual Studio Code
-- 💸 PayPal Proofs - [Paypal Proofs](https://whoisbaby.github.io/)
 - 🎵 4Music leak - [4Music](https://github.com/whoisbaby/4music)
 - 💰 Coins Bot - [baby-coins](https://github.com/whoisbaby/baby-coins)
 
