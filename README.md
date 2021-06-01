@@ -26,6 +26,8 @@
 &nbsp; &nbsp; &nbsp;
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=whoisbaby)](https://github.com/whoisbaby/github-contribution-stats/) 
 
+-----------------------------------------
+
  <p align="center">
    <img src="https://profile-counter.glitch.me/whoisbaby/count.svg" />
   </p>
