@@ -9,6 +9,15 @@
 - 💰 Coins Bot - [baby-coins](https://github.com/whoisbaby/baby-coins)
 
 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+|-|-|
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![Soon](https://img.shields.io/static/v1?label=&message=Soon..&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TwitchFollowers](https://img.shields.io/static/v1?label=&message=TwitchFollowers&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby/TwitchFollowers) [![CoinsBot](https://img.shields.io/static/v1?label=&message=CoinsBot&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby/baby-coins) [![4Music](https://img.shields.io/static/v1?label=&message=4Music&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby/4music) [![Discord Activites](https://img.shields.io/static/v1?label=&message=Discord-Activites&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby/discord-activities)|
+| [![C](https://img.shields.io/static/v1?label=&message=C&color=4FA1EF&logo=c&logoColor=FFFFFF)](https://www.programiz.com/c-programming/) | [![Soon..](https://img.shields.io/static/v1?label=&message=Soon..&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby) |
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Soon...](https://img.shields.io/static/v1?label=&message=Soon..&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/whoisbaby)  |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
 
 ## 📝 GITHUB STATS
 
