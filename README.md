@@ -1,4 +1,4 @@
-[![baby](https://media.discordapp.net/attachments/670224720326819841/913108810862854194/baby.png)](https://discord.com/users/659038301331783680)
+[![baby](https://media.discordapp.net/attachments/833660356026826792/861523576398282792/banner.png)](https://discord.com/users/659038301331783680)
 <p align="center">
    <a href="https://discord.com/users/659038301331783680" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/ny7iep1efecf70ryav5afje0z" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
