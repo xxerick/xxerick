@@ -2,7 +2,7 @@
 
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/659038301331783680" target"blank_"><img src="https://img.shields.io/badge/Beta%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/659038301331783680" target"blank_"><img src="https://img.shields.io/badge/whoisbaby%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://open.spotify.com/user/ny7iep1efecf70ryav5afje0z" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UC4DDwMs70M2RN3JYX3Y_Iog" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://github.com/whoisbaby" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
