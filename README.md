@@ -1,4 +1,4 @@
-![baby](https://media.discordapp.net/attachments/833660356026826792/861523576398282792/banner.png)](https://discord.com/users/659038301331783680)
+[![baby](https://media.discordapp.net/attachments/833660356026826792/861523576398282792/banner.png)](https://discord.com/users/659038301331783680)
 
 <div align="center">
 <h3>Contact İnformation</h3>
@@ -32,6 +32,6 @@
 <div align="center">
 <h3>Discord Activity</h3>
    <a href="https://discord.com/users/659038301331783680" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/852615172673503262?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+      <img src="https://lanyard-profile-readme.vercel.app/api/659038301331783680?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
