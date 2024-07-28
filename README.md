@@ -1,4 +1,4 @@
-[![erick](https://media.discordapp.net/attachments/1201259183836766269/1267069993246265374/New_Project_4.png?ex=66a77263&is=66a620e3&hm=01115b0003d24b9b9d87cfcfbe7d951e49eaa4bd96cfa922c2c3d1e62b8f0e11&=&format=webp&quality=lossless&width=933&height=355)](https://discord.com/users/1168882915778760806)
+[![erick](https://i.imgur.com/8zvjXv7.png)](https://discord.com/users/1168882915778760806)
 
 <div align="center">
 <h3>Contact İnformation</h3>
