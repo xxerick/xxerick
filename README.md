@@ -1,4 +1,4 @@
-[![erick](https://media.discordapp.net/attachments/1201259183836766269/1267069360099557386/New_Project_3.png?ex=66a771cc&is=66a6204c&hm=ebcfe18c481b3e941a8070392bc8eb30a08dedc1ab2c883ff884fd4617a18094&=&format=webp&quality=lossless&width=933&height=448)](https://discord.com/users/1168882915778760806)
+[![erick](https://media.discordapp.net/attachments/1201259183836766269/1267069993246265374/New_Project_4.png?ex=66a77263&is=66a620e3&hm=01115b0003d24b9b9d87cfcfbe7d951e49eaa4bd96cfa922c2c3d1e62b8f0e11&=&format=webp&quality=lossless&width=933&height=355)](https://discord.com/users/1168882915778760806)
 
 <div align="center">
 <h3>Contact İnformation</h3>
